@@ -1,0 +1,1 @@
+{"id":"scala","ext":"scala","version":"Scala v2.10.3","compile":"scalac *.scala","execute":"scala HelloWorld","preview":"","command":"","file":"/home/cg/src/samples/HelloWorld.scala","url":"compile_scala_online.php","mode":"scala"}
