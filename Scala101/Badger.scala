@@ -1,0 +1,1 @@
+case class Badger(val name: String, val location: String){}
